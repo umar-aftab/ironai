@@ -58,7 +58,8 @@ export default function ContactSection() {
     }
   };
 
-  const handleInputChange = (field, value) => {
+  // Fixed: Added proper types for the parameters
+  const handleInputChange = (field: keyof typeof formData, value: string) => {
     setFormData(prev => ({ ...prev, [field]: value }));
   };
 
