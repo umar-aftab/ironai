@@ -96,7 +96,7 @@ export default function ContactSection() {
             Ready to Transform Your Business?
           </div>
           <h2 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 tracking-tight">
-            Let's <span className="bg-gradient-to-r from-yellow-500 to-yellow-600 bg-clip-text text-transparent">Get Started</span>
+            Let&apos;s <span className="bg-gradient-to-r from-yellow-500 to-yellow-600 bg-clip-text text-transparent">Get Started</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Ready to revolutionize your business with AI? Get in touch for a free consultation 
@@ -205,7 +205,7 @@ export default function ContactSection() {
               {/* Form Header */}
               <div className="bg-gradient-to-r from-yellow-500 to-yellow-600 px-8 py-6">
                 <h3 className="text-2xl font-bold text-black">Start Your AI Transformation</h3>
-                <p className="text-black/80 mt-2">Tell us about your project and we'll get back to you within 24 hours</p>
+                <p className="text-black/80 mt-2">Tell us about your project and we&apos;ll get back to you within 24 hours</p>
               </div>
 
               <div className="p-8">
@@ -224,7 +224,7 @@ export default function ContactSection() {
                     </p>
                     <div className="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-xl">
                       <p className="text-sm text-yellow-700">
-                        <strong>What's next?</strong> Our team will review your requirements and prepare a custom AI strategy tailored to your business needs.
+                        <strong>What&apos;s next?</strong> Our team will review your requirements and prepare a custom AI strategy tailored to your business needs.
                       </p>
                     </div>
                   </motion.div>
@@ -350,7 +350,7 @@ export default function ContactSection() {
                         <a href="#" className="text-yellow-600 hover:underline">Privacy Policy</a> and{' '}
                         <a href="#" className="text-yellow-600 hover:underline">Terms of Service</a>.
                         <br />
-                        We'll contact you within 24 hours to discuss your project.
+                        We&apos;ll contact you within 24 hours to discuss your project.
                       </p>
                     </div>
                   </div>
