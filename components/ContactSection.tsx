@@ -116,7 +116,7 @@ export default function ContactSection() {
             <div>
               <h3 className="text-3xl font-bold text-gray-900 mb-4 tracking-tight">Get in Touch</h3>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Ready to revolutionize your business with AI? We're here to help you every step of the way.
+                Ready to revolutionize your business with AI? We&apos;re here to help you every step of the way.
               </p>
             </div>
 
@@ -220,7 +220,7 @@ export default function ContactSection() {
                     </div>
                     <h3 className="text-3xl font-bold text-gray-900 mb-4">Thank You!</h3>
                     <p className="text-gray-600 text-lg leading-relaxed">
-                      We've received your message and will get back to you within 24 hours with a detailed proposal.
+                      We&apos;ve received your message and will get back to you within 24 hours with a detailed proposal.
                     </p>
                     <div className="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-xl">
                       <p className="text-sm text-yellow-700">

@@ -259,7 +259,7 @@ export default function PricingSection() {
             <div className="relative">
               <h3 className="text-3xl font-bold mb-4">Need a Custom Solution?</h3>
               <p className="text-gray-300 mb-8 max-w-2xl mx-auto text-lg leading-relaxed">
-                Every business is unique. Let's discuss a tailored AI strategy that fits your specific requirements, 
+                Every business is unique. Let&apos;s discuss a tailored AI strategy that fits your specific requirements, 
                 budget, and growth objectives.
               </p>
               <button

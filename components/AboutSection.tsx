@@ -62,7 +62,7 @@ export default function AboutSection() {
             Why Choose <span className="bg-gradient-to-r from-yellow-500 to-yellow-600 bg-clip-text text-transparent">IRON AI</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            We're not just another AI company. We're your strategic partner in digital transformation, 
+            We&apos;re not just another AI company. We&apos;re your strategic partner in digital transformation, 
             combining technical expertise with business acumen.
           </p>
         </motion.div>

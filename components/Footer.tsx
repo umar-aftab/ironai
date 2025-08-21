@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, ArrowRight, ExternalLink } from "lucide-react";
 
@@ -82,7 +83,7 @@ export default function Footer() {
               {/* Description */}
               <p className="text-gray-300 mb-8 max-w-md leading-relaxed text-lg">
                 Transforming businesses with cutting-edge AI solutions. From intelligent automation to custom applications, 
-                we're your partner in digital innovation and growth.
+                we&apos;re your partner in digital innovation and growth.
               </p>
 
               {/* Contact Info */}

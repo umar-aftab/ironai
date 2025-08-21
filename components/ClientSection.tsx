@@ -1,6 +1,7 @@
 'use client';
 
 import React from "react";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { Building2, Users, Award } from "lucide-react";
 
@@ -151,7 +152,7 @@ export default function ClientSection() {
             </h3>
           </div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed">
-            We've collaborated with major organizations to implement large-scale AI solutions and digital transformation initiatives.
+            We&apos;ve collaborated with major organizations to implement large-scale AI solutions and digital transformation initiatives.
           </p>
         </motion.div>
 
